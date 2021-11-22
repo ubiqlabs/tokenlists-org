@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f1e601b4.chunk.css",
+    "main.js": "/static/js/main.bbf6cb13.chunk.js",
+    "main.js.map": "/static/js/main.bbf6cb13.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.714af41d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.714af41d.js.map",
+    "static/js/2.c03b4fe3.chunk.js": "/static/js/2.c03b4fe3.chunk.js",
+    "static/js/2.c03b4fe3.chunk.js.map": "/static/js/2.c03b4fe3.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d3e9076dff6684f6aa3ba18426d70a1f.js": "/precache-manifest.d3e9076dff6684f6aa3ba18426d70a1f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.f1e601b4.chunk.css.map": "/static/css/main.f1e601b4.chunk.css.map",
+    "static/js/2.c03b4fe3.chunk.js.LICENSE.txt": "/static/js/2.c03b4fe3.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/MatterSQ-SemiBold.a70cdfd6.woff2",
+    "static/media/color.png": "/static/media/color.d2f9ef7a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.714af41d.js",
+    "static/js/2.c03b4fe3.chunk.js",
+    "static/css/main.f1e601b4.chunk.css",
+    "static/js/main.bbf6cb13.chunk.js"
+  ]
+}
