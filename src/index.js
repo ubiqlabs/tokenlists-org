@@ -5,7 +5,7 @@ import List from './pages/list'
 import Home from './pages/home'
 import Why from './pages/why'
 import * as serviceWorker from './serviceWorker'
-import { BrowserRouter as Router, Route } from 'react-router-dom'
+import { HashRouter as Router, Route } from 'react-router-dom'
 
 ReactDOM.render(
   <React.StrictMode>
