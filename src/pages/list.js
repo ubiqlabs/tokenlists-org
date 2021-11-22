@@ -35,8 +35,8 @@ const Loading = styled.div`
 export function getURLFromQuery(query) {
   if (query?.startsWith('https://')) {
     return query
-  } else if (query?.endsWith('.eth')) {
-    return `http://${query}.link`
+  } else if (query?.endsWith('.ubq')) {
+    return `https://${query}.link`
   } else {
     return null
   }
