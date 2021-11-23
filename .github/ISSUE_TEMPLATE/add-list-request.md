@@ -21,7 +21,7 @@ Checklist
 - [ ] I will not ping the Discord about this listing request.
 
 **Please provide the following information for your token.**
-List url must be HTTPS, IPFS or ENS.
+List url must be HTTPS or IPFS.
 
 List URL: 
 List Name: 
