@@ -1,6 +1,10 @@
 {
   "https://raw.githubusercontent.com/ubiqlabs/default-token-list/master/uniswap-default.tokenlist.json": {
-    "name": "Default List",
+    "name": "UbiqLabs Default List",
+    "homepage": ""
+  },
+  "https://raw.githubusercontent.com/octanolabs/default-token-list/master/uniswap-default.tokenlist.json": {
+    "name": "Shinobi Default List",
     "homepage": ""
   }
 }
