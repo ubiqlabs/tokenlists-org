@@ -66,7 +66,7 @@ function getLogoURL(logoURI) {
 }
 
 export default function Card({ id, list, name }) {
-  const actualName = list?.name ?? name // use the name from the list, falling back to the optional prop if necessary
+  const actualName = name ?? list?.name // use the name from the list, falling back to the optional prop if necessary
   const logoURL = getLogoURL(list?.logoURI ?? null)
 
   return (
