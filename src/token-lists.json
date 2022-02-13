@@ -3,8 +3,8 @@
     "name": "UbiqLabs Default List",
     "homepage": ""
   },
-  "https://raw.githubusercontent.com/octanolabs/default-token-list/master/uniswap-default.tokenlist.json": {
-    "name": "Shinobi Default List",
+  "https://raw.githubusercontent.com/ubiqlabs/community-token-list/master/uniswap-default.tokenlist.json": {
+    "name": "UbiqLabs Community List",
     "homepage": ""
   }
 }
